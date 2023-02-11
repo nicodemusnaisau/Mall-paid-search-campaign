@@ -18,7 +18,7 @@ Explore more with interactive [Tableau dashboard!](https://public.tableau.com/ap
 
 ---
 
-## Refrence
+## Reference
 - Vallaeys, F. (2021, June 23). Google phrase match: Everything you need to know. Search Engine Journal. Retrieved January 18, 2023, from https://www.searchenginejournal.com/google-phrase-match-guide/410514/
 - Task Management Dashboard on Figma by Collins Donye
 - Carlos Silva. (2022 December 15). 12 SEO Techniques to Boost Organic Traffic + Rankings. Retrieved January 29, 2023, from https://www.semrush.com/blog/seo-techniques/
