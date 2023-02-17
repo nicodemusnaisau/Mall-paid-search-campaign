@@ -1,6 +1,12 @@
 ## Shopping Mall Paid Search Campaign
 ![ilustration](https://miro.medium.com/v2/resize:fit:4800/format:webp/1*OtyeQiRYQOHWzjYSRGjTJQ.jpeg)
+<p align="center">
+Image by jcomp on Freepik
+</p>
 
+---
+
+## Backround Project
 The data division on CoM will be analyzing data collected from the website and mobile apps, for tracking ad campaigns, specifically through the use of Google AdWords to track conversions. The data will be used to identify patterns and trends in customer behavior to inform marketing strategy and improve overall sales.
 
 ---
