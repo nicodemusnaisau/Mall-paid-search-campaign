@@ -6,7 +6,7 @@ Image by jcomp on Freepik
 
 ---
 
-## Backround Project
+## Background Project
 The data division on CoM will be analyzing data collected from the website and mobile apps, for tracking ad campaigns, specifically through the use of Google AdWords to track conversions. The data will be used to identify patterns and trends in customer behavior to inform marketing strategy and improve overall sales.
 
 ---
